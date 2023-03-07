@@ -1,8 +1,11 @@
 {
   "name": "textcases",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/cyrilchandelier/textcases"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest --no-cache --runInBand",
